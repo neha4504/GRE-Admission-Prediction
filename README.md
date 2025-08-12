@@ -27,3 +27,6 @@ This project predicts the chance of admission to graduate programs based on feat
 - Install dependencies: `pip install pandas numpy scikit-learn xgboost tensorflow streamlit pyngrok`.
 - Run the Streamlit app: `streamlit run app.py --server.port 8501`.
 - Use ngrok for public access: Configure with your ngrok auth token.
+
+**Live Demo:**  
+[Click here to view Prediction Tool](https://gre-admission-prediction.streamlit.app/)
